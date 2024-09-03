@@ -136,3 +136,36 @@
     margin-bottom: 30px;
     width: 300px;
 }
+
+@media (max-width:1100px) {
+    .hero__con{
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .main_steps__con{
+       flex-direction: column;
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
+       gap: 40px;
+        
+    }
+    .steps__bold_t{
+        margin-top: 20px;
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+    .steps_small_t{
+        width: 100%;
+        font-size: 20px;
+    }
+    .steps__mainT{
+        font-size: 30px;
+        margin-bottom: 30px;
+    
+    }
+}

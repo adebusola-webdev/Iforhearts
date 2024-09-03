@@ -181,3 +181,14 @@
     display: flex;
   }
    */
+
+   @media (max-width:800px) {
+  
+    .footer_bottom_con{
+      flex-direction: column;
+      gap: 20px;
+    }
+    .contact_con{
+      width: 100%;
+    }
+}

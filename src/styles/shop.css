@@ -45,3 +45,16 @@
     margin: 100px auto;
     margin-bottom: 30px;
 }
+
+@media (max-width:800px) {
+  
+    .books_display_main_con{
+   
+       flex-direction: column;
+       flex-wrap: nowrap;
+    
+    }
+    .books__con{
+        width: 100%;
+    }
+}
