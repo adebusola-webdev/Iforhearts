@@ -1,0 +1,35 @@
+/* src/components/FAQ.css */
+.faq-container {
+ 
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  
+  }
+  .faq-container h1{
+    text-align: center;
+  
+    font-size: 40px;
+  }
+
+  
+  .faq-item {
+    border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .faq-question {
+    padding: 15px;
+    cursor: pointer;
+    color: var(--orange);
+    font-weight:bold;
+    font-size: 20px;
+  }
+  
+  .faq-answer {
+    padding: 15px;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+  }
+  
