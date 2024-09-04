@@ -33,3 +33,19 @@
     border-top: 1px solid #ddd;
   }
   
+
+  @media (max-width:500px) {
+
+     .faq-container h1{
+
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .faq-question {
+    padding: 15px;
+    cursor: pointer;
+    color: var(--orange);
+    font-weight:bold;
+    font-size: 15px;
+  }
+  }

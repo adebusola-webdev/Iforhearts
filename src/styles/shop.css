@@ -58,3 +58,18 @@
         width: 100%;
     }
 }
+@media (max-width:500px) {
+  
+    .books_display_main_con{
+   
+       flex-direction: column;
+       flex-wrap: nowrap;
+    
+    }
+    .books__con{
+        width: 100%;
+    }
+    .shop_con_header{
+        font-size: 30px;
+    }
+}

@@ -40,15 +40,13 @@
 }
 .hero__mainT{
     font-size: 60px;
-   
    width: 100%;
-  
    margin-bottom: 30px;
 }
 
 .book_img_large {
     width: 500px;
-     height: 700px;
+     /* height: 700px; */
     border-radius: 20px;
     overflow: hidden;
     
@@ -168,4 +166,53 @@
         margin-bottom: 30px;
     
     }
+}
+@media (max-width:500px) {
+    .logo{
+        font-size: 20px;
+    }
+ .book_img_large {
+    width: 300px;
+   
+
+ }   
+ .book_img_large img {
+
+    height:100%;
+
+ } 
+ .hero__mainT{
+    font-size: 30px;
+   width: 100%;
+   margin-bottom: 30px;
+}
+
+.create_btn{ 
+    padding: 15px 20px;
+    font-size: 15px;
+    margin-bottom: 20px;
+   
+   }
+   .hero__subT{
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.steps__subT{
+    font-size: 20px;
+    width: 90%;
+}
+.steps__bold_t{
+    font-size: 20px;
+}
+.steps_small_t{
+    font-size: 15px;
+}
+.hero__con{
+    padding: 0;
+}
+.steps img{
+    width: 200px;
+}
+
 }
