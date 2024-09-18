@@ -28,6 +28,7 @@ const Fathersday = () => {
    "
    buttonText="Create a book now!"
    buttonLink="/create-book"
+   image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655318/IMG_4432_h8ilhl.jpg'
  />
 <CreatePersonalizedsteps
    mainTitle="Create a personalized book in 3 steps"

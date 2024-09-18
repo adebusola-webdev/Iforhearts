@@ -34,6 +34,7 @@ export const Home = () => {
         subtitle="Create a personalized book that lists all the reasons why you love someone."
         buttonText="Create a book now!"
         buttonLink="/create-book"
+        image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655412/IMG_4437_jcseyc.jpg'
       />
     <CreatePersonalizedsteps
         mainTitle="Create a personalized book in 3 steps"

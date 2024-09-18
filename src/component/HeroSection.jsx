@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import '../styles/home.css'; // Assuming you have a CSS file for styling
 
-const HeroSection = ({ title, subtitle, buttonText, buttonLink }) => {
+const HeroSection = ({ title, subtitle, buttonText, buttonLink ,image}) => {
   return (
     <div className='hero__main__con'>
       <div className="hero__con">
@@ -18,7 +18,7 @@ const HeroSection = ({ title, subtitle, buttonText, buttonLink }) => {
        </div>
        <div className="hero__con__img">
           <div className="book_img_large">
-            <img src="https://res.cloudinary.com/dvidoaowm/image/upload/v1725227570/_f01daf4f-70cd-44e5-ab9e-c269eb91d927_6_osdvxf.svg" alt="" />
+            <img src={image} alt="" />
           </div>
          
        </div>

@@ -31,6 +31,7 @@ export const Motherday = () => {
         subtitle="The original personalized gift book that lets you list all the reasons why you love someone"
         buttonText="Create a book now!"
         buttonLink="/create-book"
+        image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655332/IMG_4433_ijbkxw.jpg'
       />
     <CreatePersonalizedsteps
         mainTitle="Create a personalized book in 3 steps"

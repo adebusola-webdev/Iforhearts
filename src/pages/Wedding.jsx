@@ -32,6 +32,7 @@ export const Wedding = () => {
         subtitle="Create your personalized book that list all the reasons why you love your betrothed."
         buttonText="Create a book now!"
         buttonLink="/create-book"
+        image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655393/IMG_4438_oaal4v.jpg'
       />
     <CreatePersonalizedsteps
         mainTitle="Create a personalized book in 3 steps"

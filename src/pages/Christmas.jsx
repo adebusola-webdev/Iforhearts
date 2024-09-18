@@ -28,6 +28,7 @@ const Christmas = () => {
    "
    buttonText="Create a book now!"
    buttonLink="/create-book"
+   image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655366/IMG_4435_tfs3vy.jpg'
  />
 <CreatePersonalizedsteps
    mainTitle="Create a personalized book in 3 steps"

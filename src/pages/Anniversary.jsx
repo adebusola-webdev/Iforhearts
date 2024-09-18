@@ -30,6 +30,7 @@ export const Anniversary = () => {
         subtitle="The original personalized gift book that lets you list all those private, intimate reasons why you love them."
         buttonText="Create a book now!"
         buttonLink="/create-book"
+        image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655393/IMG_4438_oaal4v.jpg'
       />
     <CreatePersonalizedsteps
         mainTitle="Create a personalized book in 3 steps"

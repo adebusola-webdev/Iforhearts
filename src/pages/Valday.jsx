@@ -28,7 +28,9 @@ const Valday = () => {
    "
    buttonText="Create a book now!"
    buttonLink="/create-book"
- />
+   image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655393/IMG_4438_oaal4v.jpg'
+   />
+
 <CreatePersonalizedsteps
    mainTitle="Create a personalized book in 3 steps"
    subTitle="Expressing why someone is special has never been this easy and fun! Each Book is a personalized collection of all the little reasons why you love or appreciate someone. Customize your book as much or as little as you'd like."

@@ -28,6 +28,7 @@ const Occassion = () => {
    "
    buttonText="Create a book now!"
    buttonLink="/create-book"
+   image='https://res.cloudinary.com/dvidoaowm/image/upload/v1726655353/IMG_4434_fzjdtx.jpg'
  />
 <CreatePersonalizedsteps
    mainTitle="Create a personalized book in 3 steps"
